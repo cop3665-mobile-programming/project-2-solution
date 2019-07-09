@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delete_memory"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/delete_memory"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/send_memory"
+        android:icon="@drawable/ic_send_memory"
+        android:title="@string/send_memory"
+        app:showAsAction="ifRoom|withText" />
+</menu>

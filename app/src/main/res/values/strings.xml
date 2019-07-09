@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PetHeart</string>
+    <string name="memory_title_label">Title</string>
+    <string name="memory_title_hint">Enter a title for the memory</string>
+    <string name="memory_description_label">Description</string>
+    <string name="memory_description_hint">Enter a description of the memory...</string>
+    <string name="memory_favorited_switch">Favorite</string>
+    <string name="button_date">Select Date</string>
+    <string name="date_picker_title">Date of memory:</string>
+    <string name="new_memory">New Memory</string>
+    <string name="show_favorited">Show Favorited</string>
+    <string name="show_all">Show All</string>
+    <string name="delete_memory">Delete Memory</string>
+    <string name="send_memory">Send Memory</string>
+    <string name="memory_details">Remember %1s!
+        It happened on %2s. Remember %3s!
+    </string>
+    <string name="memory_subject">Sweet Memories!</string>
+</resources>
